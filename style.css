@@ -82,3 +82,8 @@ button {
 button:hover {
     background-color: #45a049;
 }
+
+#Bistro {
+    width: 600px;
+    height: auto
+}
